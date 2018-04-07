@@ -1,0 +1,12 @@
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\bin\Release\MockTestHarness.dll.config
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\bin\Release\MockTestHarness.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\bin\Release\MockTestHarness.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\bin\Release\TestHarnessSDK.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\bin\Release\TestHarnessSDK.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\obj\Release\MockTestHarness.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\obj\Release\MockTestHarness.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\obj\Release\MockTestHarness.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\MockTestHarness.dll.config
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\MockTestHarness.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\MockTestHarness.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockTestHarness\obj\Release\MockTestHarness.csprojResolveAssemblyReference.cache

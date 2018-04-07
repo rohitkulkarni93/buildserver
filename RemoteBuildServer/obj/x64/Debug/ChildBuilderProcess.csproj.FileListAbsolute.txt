@@ -1,0 +1,11 @@
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\ChildBuilderProcess.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\ChildBuilderProcess.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\RemoteBuildServer\obj\x64\Debug\ChildBuilderProcess.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\RemoteBuildServer\obj\x64\Debug\ChildBuilderProcess.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\RemoteBuildServer\obj\x64\Debug\ChildBuilderProcess.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\RemoteBuildServer\obj\x64\Debug\ChildBuilderProcess.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\ChildBuilderProcess.exe
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\ChildBuilderProcess.pdb
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\RemoteBuildServer\obj\x64\Debug\ChildBuilderProcess.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\RemoteBuildServer\obj\x64\Debug\ChildBuilderProcess.exe
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\RemoteBuildServer\obj\x64\Debug\ChildBuilderProcess.pdb

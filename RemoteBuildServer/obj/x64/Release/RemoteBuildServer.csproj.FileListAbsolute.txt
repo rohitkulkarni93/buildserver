@@ -1,0 +1,15 @@
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\RemoteBuildServer.exe
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\RemoteBuildServer.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\Commons.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\MockTestHarness.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\TestHarnessSDK.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\Commons.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\MockTestHarness.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\MockTestHarness.dll.config
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\bin\x64\Release\TestHarnessSDK.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\obj\x64\Release\RemoteBuildServer.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\obj\x64\Release\RemoteBuildServer.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\obj\x64\Release\RemoteBuildServer.exe
+C:\Users\Rohit\source\repos\RemoteBuildServer\RemoteBuildServer\obj\x64\Release\RemoteBuildServer.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\RemoteBuildServer.exe
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\RemoteBuildServer.pdb

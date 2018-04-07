@@ -1,0 +1,14 @@
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MotherBuilderProcess.exe.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MotherBuilderProcess.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MotherBuilderProcess.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.pdb
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MotherBuilderProcess.exe.config
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MotherBuilderProcess.exe
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MotherBuilderProcess.pdb
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.exe
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\MotherBuilderProcess.pdb

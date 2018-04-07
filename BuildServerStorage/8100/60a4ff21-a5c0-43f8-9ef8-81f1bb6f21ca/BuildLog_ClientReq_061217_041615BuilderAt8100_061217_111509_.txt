@@ -1,0 +1,13 @@
+Build Started:60a4ff21-a5c0-43f8-9ef8-81f1bb6f21ca
+Build request - 60a4ff21-a5c0-43f8-9ef8-81f1bb6f21ca
+
+Language = C#
+Compiler Flags = 
+
+Process complete:
+Microsoft (R) Visual C# Compiler version 2.3.2.61928 (ec1cde8b)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Errors.cs(9,20): error CS0535: 'Errors' does not implement interface member 'ITest.Test()'
+
+Build complete. Result - Build Failed.

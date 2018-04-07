@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientRequestDO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ClientID />
+  <BuildFiles>
+    <string>BuildRequests\ClientReq_051217_123017.xml</string>
+    <string>MockTestHarness\App.config</string>
+    <string>MockTestHarness\DllLoader.cs</string>
+    <string>MockTestHarness\MockTestHarness.csproj</string>
+    <string>MockTestHarness\TestHarnessService.cs</string>
+  </BuildFiles>
+  <OutputFile />
+  <TestDrivers>
+    <string>MockTestHarness\App.config</string>
+    <string>MockTestHarness\DllLoader.cs</string>
+    <string>MockTestHarness\MockTestHarness.csproj</string>
+    <string>MockTestHarness\TestHarnessService.cs</string>
+  </TestDrivers>
+  <CompilerOptions />
+  <Language />
+</ClientRequestDO>

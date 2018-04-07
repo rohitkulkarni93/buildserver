@@ -1,0 +1,1 @@
+c:\Users\Rohit\source\repos\Warnings\Errors\obj\Debug\ProjectWithErrors.csproj.CoreCompileInputs.cache

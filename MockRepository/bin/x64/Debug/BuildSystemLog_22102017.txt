@@ -1,0 +1,21 @@
+
+10/22/2017 8:57:33 PM-Information: Hosting file service.
+10/22/2017 8:57:34 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:43:15 PM-Information: Hosting file service.
+10/22/2017 9:43:15 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:44:16 PM-Information: Hosting file service.
+10/22/2017 9:44:16 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:47:49 PM-Information: Hosting file service.
+10/22/2017 9:47:49 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:49:06 PM-Information: Hosting file service.
+10/22/2017 9:49:36 PM-Information: Hosting file service.
+10/22/2017 9:49:36 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:50:49 PM-Information: Hosting file service.
+10/22/2017 9:50:49 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:52:17 PM-Information: Hosting file service.
+10/22/2017 9:52:17 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:55:22 PM-Information: Hosting file service.
+10/22/2017 9:56:30 PM-Information: Hosting file service.
+10/22/2017 9:56:44 PM-Information: File service hosted at address:http://localhost:4321/Services
+10/22/2017 9:59:26 PM-Information: Hosting file service.
+10/22/2017 9:59:26 PM-Information: File service hosted at address:http://localhost:4321/Services

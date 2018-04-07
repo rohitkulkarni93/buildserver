@@ -1,0 +1,17 @@
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MockRepository\bin\x64\Debug\MockRepository.exe.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MockRepository\bin\x64\Debug\MockRepository.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MockRepository\bin\x64\Debug\MockRepository.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MockRepository.exe.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MockRepository.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MockRepository.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.pdb
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MockRepository.exe.config
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MockRepository.exe
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MockRepository.pdb
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.exe
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MockRepository\obj\x64\Debug\MockRepository.pdb

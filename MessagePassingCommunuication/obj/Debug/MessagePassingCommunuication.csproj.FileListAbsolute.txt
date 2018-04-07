@@ -1,0 +1,6 @@
+c:\users\rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\bin\Debug\MessagePassingCommunuication.dll.config
+c:\users\rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\bin\Debug\MessagePassingCommunuication.dll
+c:\users\rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\bin\Debug\MessagePassingCommunuication.pdb
+c:\users\rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\obj\Debug\MessagePassingCommunuication.csproj.CoreCompileInputs.cache
+c:\users\rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\obj\Debug\MessagePassingCommunuication.dll
+c:\users\rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\obj\Debug\MessagePassingCommunuication.pdb

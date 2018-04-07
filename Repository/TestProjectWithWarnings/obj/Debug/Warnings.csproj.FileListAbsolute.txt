@@ -1,0 +1,6 @@
+c:\users\rohit\source\repos\Warnings\Warnings\bin\Debug\Warnings.exe.config
+c:\users\rohit\source\repos\Warnings\Warnings\bin\Debug\Warnings.exe
+c:\users\rohit\source\repos\Warnings\Warnings\bin\Debug\Warnings.pdb
+c:\users\rohit\source\repos\Warnings\Warnings\obj\Debug\Warnings.csproj.CoreCompileInputs.cache
+c:\users\rohit\source\repos\Warnings\Warnings\obj\Debug\Warnings.exe
+c:\users\rohit\source\repos\Warnings\Warnings\obj\Debug\Warnings.pdb

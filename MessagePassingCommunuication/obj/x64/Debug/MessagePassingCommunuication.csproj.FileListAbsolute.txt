@@ -1,0 +1,17 @@
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\bin\x64\Debug\MessagePassingCommunuication.dll.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\bin\x64\Debug\MessagePassingCommunuication.dll
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\bin\x64\Debug\MessagePassingCommunuication.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MessagePassingCommunuication.dll.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MessagePassingCommunuication.dll
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\MessagePassingCommunuication.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.dll
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MessagePassingCommunuication.dll.config
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MessagePassingCommunuication.dll
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\Deployment\bin\x64\MessagePassingCommunuication.pdb
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.dll
+C:\Users\Rohit\Desktop\lastest\MessagePassingCommunuication\MessagePassingCommunuication\MessagePassingCommunuication\obj\x64\Debug\MessagePassingCommunuication.pdb

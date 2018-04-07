@@ -1,0 +1,13 @@
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\bin\x64\Debug\BuilderProcess.exe.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\bin\x64\Debug\BuilderProcess.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\bin\x64\Debug\BuilderProcess.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\bin\x64\Debug\MessagePassingCommunuication.dll
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\bin\x64\Debug\MessagePassingCommunuication.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\bin\x64\Debug\MessagePassingCommunuication.dll.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\BuilderProcess.exe.config
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\BuilderProcess.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\Deployment\bin\x64\BuilderProcess.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\BuilderProcess.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\BuilderProcess.exe
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\BuilderProcess.pdb
+C:\Users\Rohit\source\repos\MessagePassingCommunuication\BuilderProcess\obj\x64\Debug\BuilderProcess.csprojResolveAssemblyReference.cache

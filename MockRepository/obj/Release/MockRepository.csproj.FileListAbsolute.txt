@@ -1,0 +1,12 @@
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\bin\Release\MockRepository.exe.config
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\bin\Release\MockRepository.exe
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\bin\Release\MockRepository.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\bin\Release\Commons.dll
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\bin\Release\Commons.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\obj\Release\MockRepository.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\obj\Release\MockRepository.exe
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\obj\Release\MockRepository.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\MockRepository.exe.config
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\MockRepository.exe
+C:\Users\Rohit\source\repos\RemoteBuildServer\Deployment\bin\x64\MockRepository.pdb
+C:\Users\Rohit\source\repos\RemoteBuildServer\MockRepository\obj\Release\MockRepository.csprojResolveAssemblyReference.cache

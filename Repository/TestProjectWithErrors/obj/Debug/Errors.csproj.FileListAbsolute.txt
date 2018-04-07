@@ -1,0 +1,2 @@
+c:\Users\Rohit\source\repos\Warnings\Errors\obj\Debug\Errors.csprojResolveAssemblyReference.cache
+c:\Users\Rohit\source\repos\Warnings\Errors\obj\Debug\Errors.csproj.CoreCompileInputs.cache

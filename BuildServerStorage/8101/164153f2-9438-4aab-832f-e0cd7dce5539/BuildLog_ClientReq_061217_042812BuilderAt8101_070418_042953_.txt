@@ -1,0 +1,18 @@
+Build Started:164153f2-9438-4aab-832f-e0cd7dce5539
+Build request - 164153f2-9438-4aab-832f-e0cd7dce5539
+
+Language = C#
+Compiler Flags = 
+
+Process complete:
+Microsoft (R) Visual C# Compiler version 2.3.2.61928 (ec1cde8b)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Warnings.cs(13,17): warning CS0219: The variable 'a' is assigned but its value is never used
+Warnings.cs(14,17): warning CS0219: The variable 'b' is assigned but its value is never used
+Warnings.cs(15,17): warning CS0219: The variable 'c' is assigned but its value is never used
+Warnings.cs(16,17): warning CS0219: The variable 'd' is assigned but its value is never used
+Warnings.cs(17,17): warning CS0219: The variable 'e' is assigned but its value is never used
+Warnings.cs(25,13): warning CS0162: Unreachable code detected
+
+Build complete. Result - Build Succeeded.

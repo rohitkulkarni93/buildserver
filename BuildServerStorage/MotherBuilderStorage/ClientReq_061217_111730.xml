@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientRequestDO xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ClientID />
+  <BuildFiles>
+    <string>TestProjectWithErrors\Errors.cs</string>
+    <string>TestProjectWithWarnings\Warnings.cs</string>
+  </BuildFiles>
+  <TestDrivers>
+    <string>TestProjectWithWarnings\TestDriver1.cs</string>
+    <string>TestProjectWithWarnings\TestDriver2.cs</string>
+  </TestDrivers>
+  <CompilerOptions />
+  <Language />
+</ClientRequestDO>
